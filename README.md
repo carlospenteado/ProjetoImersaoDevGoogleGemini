@@ -28,7 +28,7 @@ Este projeto consiste em sua estrutura principal das funcionalidades do site con
 
 # Tecnologias utilizadas
 ## Back end
-- HTML#
+- HTML
 - JavaScript
 
 ## Front end
