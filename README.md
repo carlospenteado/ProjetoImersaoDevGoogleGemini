@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto é uma construção de um Site de Surfistas do Brasil, este trabalho feito do zero, a partir do modelo do evento realizado pela Alura [Imersão Dev com Google Gemini]([https://cursos.alura.com.br/imersao]).
+Este projeto é uma construção de um site de Surfistas do Brasil, este trabalho feito do zero, a partir do modelo do evento realizado pela Alura [Imersão Dev com Google Gemini]([https://cursos.alura.com.br/imersao]).
 
 Este projeto consiste em sua estrutura principal das funcionalidades do site construido em HTML, seu Front-End utilizando a linguagem CSS e JavaScript, e consumindo os Dados e as funcionalidades de pesquisa do site e seu BackEnd em JavaScript com CSS.
 
