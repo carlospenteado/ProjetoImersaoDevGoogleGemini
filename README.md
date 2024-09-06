@@ -1,4 +1,4 @@
-# Projeto Imersão DEV Google Gemini
+# Surfistas do Brasil - Imersão DEV com Google Gemini
 
 
 # Sobre o projeto
